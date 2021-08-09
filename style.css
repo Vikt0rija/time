@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+  background: #CDAC81;
+  font-family: verdana;
+  word-spacing: 5px;
+  font-size: 12px;
+  text-align: center;
+  margin: 50px;
+}
+h3 {
+  background: #CAE4DB;
+  background-position: center;
+  color: #00303F;
+  margin: 5px;
+}
+p {
+  background: #00303F;
+  color: #F5F4F4;
+  margin: 5px;
+}
+
+img {
+  border-radius: 10%;
+  box-shadow: 0 0 5px 5px #CAE4DB;
+  margin: 10px;
+}
